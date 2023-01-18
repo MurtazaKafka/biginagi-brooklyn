@@ -25,3 +25,8 @@ To use this theme, you will need to have a Shopify Partner account and be famili
 
 Once you are ready to deploy your theme, use the theme deploy command to upload all the changes to your live store.
 Note: Please make sure to **backup your current theme** before uploading the new theme.
+
+
+### Aside
+
+< The descriptions provided here are only a brief guide on how to preview the theme on your Shopify Partner account. You may encounter intricacies while customizing and uploading the theme that are not addressed in any online Tutorial or YouTube. For that end, I suggest reading the book `Shopify Theme Customization` written by `Ivan Djordjevic`, as it provides the most comprehensive guide on Shopify Theme Customization to this date. But perhaps, you too, are a dude like me in Afghanistan and neither can nor are you able to afford this book via Amazon or otherwise. If that is true, you would be pretty fine following this Z-library onion url (https://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/) and be sure to open it with Tor Browser.
