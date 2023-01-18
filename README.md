@@ -3,7 +3,7 @@ This repository contains a custom Shopify theme that can be used to create a uni
 
 ## Getting Started
 
-To use this theme, you will need to have a Shopify account and be familiar with the Shopify theme development process.
+To use this theme, you will need to have a Shopify Partner account and be familiar with the Shopify theme development process.
 
 
 ## Installing the Theme
