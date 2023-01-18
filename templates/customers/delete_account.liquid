@@ -1,0 +1,8 @@
+{% if customer %}
+  <form method="post" action="/account/delete">
+    <input type="hidden" name="_method" value="delete">
+    <input type="submit" value="Delete my account">
+  </form>
+{% else %}
+  <p>You must be logged in to delete your account.</p>
+{% endif %}
